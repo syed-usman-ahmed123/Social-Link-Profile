@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box {
+    height: 75vh;
+    width: 20vw;
+    background-color: rgb(30, 29, 29);
+    margin: 70px 540px 70px 540px;
+    border-radius: 10px;
+}
+span img {
+    height: 80px;
+    width: 80px;
+    margin: 25px 90px;
+    border-radius: 100px;
+}
+.name{
+    color: white;
+    margin: 0px 70px;
+    font-size: 18px;
+}
+
+.text{
+    font-size: 11px;
+    margin: 5px 73px;
+    color: rgba(175, 248, 17, 0.791);
+}
+p{
+    color: white;
+    font-size: 11px;
+    margin: 15px 42px;
+
+}
+.box1{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    padding: 12px 85px;
+    width: 20%;
+    margin: 13px 30px ;
+    border-radius: 7px;
+    font-size: 11px;
+
+}
+.box2{
+    background-color:  rgb(47, 46, 46);
+    color: white;
+    padding: 12px 70px;
+    width: 32%;
+    margin: 9px 30px  ;
+    border-radius: 7px;
+    font-size: 11px;
+
+}
+.box3{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    padding: 12px 85px;
+    width: 20%;
+    margin: 9px 30px ;
+    border-radius: 7px;
+    font-size: 11px;
+
+}
+.box4{
+    background-color: rgb(47, 46, 46);
+    color: white;
+    padding: 12px 85px;
+    width: 20%;
+    margin: 9px 30px ;
+    border-radius: 7px;
+    font-size: 11px;
+
+}
+.box5{
+    background-color:  rgb(47, 46, 46);
+    color: white;
+    padding: 12px 85px;
+    width: 20%;
+    margin: 9px 30px ;
+    border-radius: 7px;
+    font-size: 11px;
+
+}
+@media (max-width: 800px) {
+   .box{
+    margin:100px 0px 100px 33px; 
+    height: 70vh;
+    width: 80vw;
+   } 
+   .box2{
+    width: 30%;
+   }
+}
